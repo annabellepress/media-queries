@@ -1,0 +1,33 @@
+body {
+	background-color: white;
+	font-size: 14px;
+}
+.h1 {
+	font-size: 120px;
+}
+@media (min-width: 800px) {
+	body{
+		background-color: #ff5487;
+	}
+}
+
+@media (max-width: 1000px) {
+	body{
+		background-color: #f7771d;
+	}
+}
+
+
+	
+.trolls {
+	position: relative;
+	z-index: 0;
+}
+.writing {
+	position: relative;
+}
+.item {
+	font-size: 2vw;
+}
+
+
